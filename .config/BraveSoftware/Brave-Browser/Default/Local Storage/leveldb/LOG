@@ -1,0 +1,15 @@
+2022/10/31-20:17:53.045 3 Reusing MANIFEST /home/salehmh/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/31-20:17:53.046 3 Recovering log #3
+2022/10/31-20:17:53.046 3 Reusing old log /home/salehmh/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2022/10/31-20:27:55.635 8 Level-0 table #5: started
+2022/10/31-20:27:55.649 8 Level-0 table #5: 24450 bytes OK
+2022/10/31-20:27:55.654 8 Delete type=0 #3
+2022/10/31-23:54:59.157 8 Level-0 table #7: started
+2022/10/31-23:54:59.171 8 Level-0 table #7: 25125 bytes OK
+2022/10/31-23:54:59.176 8 Delete type=2 #5190
+2022/11/01-00:00:09.467 8 Level-0 table #9: started
+2022/11/01-00:00:09.480 8 Level-0 table #9: 285631 bytes OK
+2022/11/01-00:00:09.483 8 Delete type=0 #6
+2022/11/01-00:43:26.723 2c Level-0 table #11: started
+2022/11/01-00:43:26.728 2c Level-0 table #11: 20314 bytes OK
+2022/11/01-00:43:26.731 2c Delete type=0 #8

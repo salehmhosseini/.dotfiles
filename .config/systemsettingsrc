@@ -1,0 +1,12 @@
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABsAAAAPiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=994
+eDP-1 Width 1920x1080=1728
+eDP-1 XPosition 1920x1080=192
+eDP-1 YPosition 1920x1080=86
+
+[Open-with settings]
+CompletionMode=1
+History=tele

@@ -1,0 +1,173 @@
+{
+   "checksum": "4a268dcdd98e72984a8a6ab44eaa5fcb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13311708552892905",
+            "guid": "f4922ddf-79d9-4d52-8972-c75fe6a30aab",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13311708662183530",
+            "guid": "c505d849-e089-4570-8a53-d8381b2fc6f4",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13311708822311684",
+            "guid": "9a8d79ee-69a7-475f-ba47-508927034f43",
+            "id": "7",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13311708867072169",
+            "guid": "c93c8d58-7d2d-4bff-a69b-8853fd8bab75",
+            "id": "8",
+            "name": "digi",
+            "type": "url",
+            "url": "https://seller.digikala.com/"
+         }, {
+            "date_added": "13311708933403744",
+            "guid": "611b26c7-23e4-4fe5-a73a-2639d6ad0d6b",
+            "id": "9",
+            "name": "Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/problemset"
+         }, {
+            "date_added": "13311709002423730",
+            "guid": "679bbf72-5bca-4b3e-904e-0e0a73d84547",
+            "id": "10",
+            "name": "Quera",
+            "type": "url",
+            "url": "https://quera.org/dashboard"
+         }, {
+            "date_added": "13311720363883124",
+            "guid": "426f2276-0661-4cb1-956f-26e637c36942",
+            "id": "11",
+            "name": "Insta",
+            "type": "url",
+            "url": "https://www.instagram.com/saleh.mhosseini/"
+         }, {
+            "date_added": "13311720487206925",
+            "guid": "51efd07f-2d71-4856-91c8-48217aed2001",
+            "id": "12",
+            "name": "Pooya",
+            "type": "url",
+            "url": "https://pooya.um.ac.ir/gateway/PuyaMainFrame2.php"
+         }, {
+            "date_added": "13311720505935141",
+            "guid": "1b071b9a-b328-46a8-a3eb-87518328af05",
+            "id": "13",
+            "name": "Code Jam",
+            "type": "url",
+            "url": "https://codingcompetitions.withgoogle.com/"
+         }, {
+            "date_added": "13311720544291430",
+            "guid": "63c63061-a207-42f5-a38f-3cb309c541cc",
+            "id": "14",
+            "name": "Linux.org",
+            "type": "url",
+            "url": "https://www.linux.org/"
+         }, {
+            "date_added": "13311720572048574",
+            "guid": "33b17d3e-a6bd-4408-b923-c7c4546062d0",
+            "id": "15",
+            "name": "Python std",
+            "type": "url",
+            "url": "https://docs.python.org/3/library/"
+         }, {
+            "date_added": "13311720608424396",
+            "guid": "ef2fe387-be77-4c96-8f31-ca3243990035",
+            "id": "16",
+            "name": "Today",
+            "type": "url",
+            "url": "https://www.time.ir/"
+         }, {
+            "date_added": "13311720645901463",
+            "guid": "c8503418-e52c-49d0-9b64-aa95b69c5b95",
+            "id": "17",
+            "name": "AI Hamrah",
+            "type": "url",
+            "url": "https://hamrah.academy/dashboard"
+         }, {
+            "date_added": "13311720670089544",
+            "guid": "8b604b41-9aa7-413c-bd68-75904e5af5b4",
+            "id": "18",
+            "name": "um.mail",
+            "type": "url",
+            "url": "https://smail.um.ac.ir/mail2/?_task=mail&_mbox=INBOX"
+         }, {
+            "date_added": "13311720688088508",
+            "guid": "e386c2ab-7130-4bd8-86fb-42dd3bf9a8b2",
+            "id": "19",
+            "name": "Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/"
+         }, {
+            "date_added": "13311720707093116",
+            "guid": "99aabcb3-fe25-41e8-b4dd-56ca322045d7",
+            "id": "20",
+            "name": "Linkedin",
+            "type": "url",
+            "url": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2F&trk=login_reg_redirect"
+         }, {
+            "date_added": "13311720734582463",
+            "guid": "8c6e970e-624b-4525-80cc-49346b3825b6",
+            "id": "21",
+            "name": "Telegram",
+            "type": "url",
+            "url": "https://web.telegram.org/z/#108992385"
+         }, {
+            "date_added": "13311720775105833",
+            "guid": "2f88eb80-5029-40ae-9ce2-3f49f5ee6e27",
+            "id": "22",
+            "name": "AI with purdue",
+            "type": "url",
+            "url": "http://www.ricardocalix.com/MLfoundations/MLfoundations.htm"
+         }, {
+            "date_added": "13311720790863141",
+            "guid": "2240682b-7e2a-48fb-925b-751b79fc338e",
+            "id": "23",
+            "name": "kaggle",
+            "type": "url",
+            "url": "https://www.kaggle.com/"
+         }, {
+            "date_added": "13311720809741285",
+            "guid": "24107f71-bef1-4677-882c-9cbce31821ec",
+            "id": "24",
+            "name": "deep learning ai",
+            "type": "url",
+            "url": "https://community.deeplearning.ai/login"
+         } ],
+         "date_added": "13311708473038554",
+         "date_modified": "13311720809741285",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13311708473038555",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13311708473038556",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
